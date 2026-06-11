@@ -16,3 +16,5 @@ Hi, I'm Suzal Aggarwal 👋<br><br>🎓 B.Tech Computer Science student at Chand
 [![](https://komarev.com/ghpvc/?username=suzalaggarwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/suzalaggarwal/suzalaggarwal/blob/output/github-snake-dark.svg)
