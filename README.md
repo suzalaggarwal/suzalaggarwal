@@ -17,4 +17,4 @@ Hi, I'm Suzal Aggarwal 👋<br><br>🎓 B.Tech Computer Science student at Chand
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/suzalaggarwal/suzalaggarwal/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/suzalaggarwal/suzalaggarwal/blob/output/github-snake-dark.svg) -->
