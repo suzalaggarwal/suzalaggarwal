@@ -80,3 +80,5 @@ Collection of responsive websites and web applications built using modern web te
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suzalaggarwal\&color=blue)
+
+![Snake animation](https://github.com/suzalaggarwal/suzalaggarwal/blob/output/github-snake-dark.svg)
